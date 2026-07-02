@@ -9,17 +9,18 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **🧑 Name** | Abhishek BS |
+| **🔗 LinkedIn** | [Abhishek BS](https://www.linkedin.com/in/abhishek-bs-mu2320/) |
+| **📍 Location** | Bangalore, India |
+| **💻 Background** | Python Developer |
+| **🎯 Goal** | To continuously learn and upgrade my skills in **DevOps** by leveraging **Agentic AI** for automation, scalability, and innovation. |
 
 ---
+
 
 ## About the Program
 

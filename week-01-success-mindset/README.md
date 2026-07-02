@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I genuinely believe that chasing constant “success” is overrated. Most people around me think success means promotions, money, or recognition, but I see it differently. To me, failure and setbacks are far more valuable because they teach resilience, discipline, and creativity. Success feels temporary, but the lessons from failure stay with you forever and shape real growth.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice is more powerful than natural talent.
 
 ### Evidence from my life
 
-Add your answer here...
+When I began learning Python, I wasn’t the most talented in my group. But by practicing daily, debugging errors, and building small projects, I improved faster than peers who relied only on talent. The steady progress proved practice always wins.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Sleep directly affects productivity and accuracy.
 
 ### Evidence from my life
 
-Add your answer here...
+I experimented with late‑night coding versus proper rest. On days I slept 7–8 hours, I solved problems faster and made fewer mistakes. When I cut sleep, my focus dropped and errors increased. The difference was clear in both speed and quality of work.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Discipline produces long‑term results more reliably than motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+ I tested working only when I “felt motivated” versus following a fixed routine. Motivation faded quickly, but discipline kept me consistent. Over weeks, the disciplined approach led to more finished projects and steady improvement, proving routine outperforms mood every time.
 
 ---
 
@@ -135,11 +135,19 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+By 2029, Abhishek BS had transformed into one of the most recognized names in the DevOps and Agentic AI community. He built automation pipelines that drastically reduced deployment times for several startups, and later shipped enterprise‑grade solutions that scaled across thousands of users. His GitHub portfolio showcased dozens of open‑source projects, ranging from intelligent monitoring dashboards to adaptive AI‑driven CI/CD frameworks.
+
+Abhishek earned multiple certifications in cloud infrastructure and DevOps engineering, including AWS Solutions Architect and Kubernetes Administration. These credentials were not just badges — they were proven in practice. He led cross‑functional teams that migrated legacy systems into containerized environments, cutting costs and improving reliability.
+
+He published technical blogs that broke down complex AI‑driven DevOps workflows into simple, reproducible steps. These articles were widely shared in the developer community, and his Medium page became a go‑to resource for engineers experimenting with Agentic AI in automation. His writing style combined clarity with hands‑on evidence, often linking back to GitHub repositories where readers could test the code themselves.
+
+By 2028, Abhishek had relocated to a global tech hub, where he contributed to community hackathons and mentored junior developers. He was invited to speak at conferences on the future of Agentic AI in DevOps, presenting case studies of projects he had shipped. His leadership extended beyond code — he fostered collaborative environments where experimentation was encouraged, and results were measured objectively.
+
+The journalist covering his journey noted that Abhishek’s 2.0 version was not defined by titles alone, but by the tangible systems he built, the teams he led, and the knowledge he shared. His trajectory proved that disciplined learning, combined with experimentation and community contribution, could turn a Python developer into a global DevOps innovator.
 
 ### Public Link
 
-Paste your link here:
+https://medium.com/@abhishek_b_s/my-journey-to-version-2-0-dbdaa6f2356e
 
 `__________________________`
 
@@ -173,7 +181,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+When I cut corners in the past, the strongest emotion I felt was guilt. At first, it seemed like a shortcut that saved me time, but the feeling didn’t last. I kept replaying the decision in my mind, worrying that I hadn’t done things the right way. That guilt created stress because I knew the result wasn’t earned honestly, and it made me question my own discipline. Instead of satisfaction, I felt regret realizing that the shortcut robbed me of the deeper confidence that comes from doing things properly. Over time, I understood that the temporary relief of cutting corners was far outweighed by the lingering discomfort and self‑doubt it left behind.
 
 ---
 
@@ -199,16 +207,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Cloud Computing with AWS – Pravin Mishra
+2. The 5AM Club – Robin Sharma
+3. Atomic Habits – James Clear
+4. Deep Work – Cal Newport
+5. The Lean Startup – Eric Ries
+6. Principles: Life and Work – Ray Dalio
+7. The Psychology of Money – Morgan Housel
+8. Dare to Lead – Brené Brown
+9. Measure What Matters – John Doerr
+10. Tools of Titans – Tim Ferriss
 
 ---
 
@@ -237,16 +245,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* New skills acquired or practiced
+* Projects shipped / documented
+* Blog posts or technical write‑ups published
+* Health routines (workouts, steps, exercise consistency)
+* Sleep hours tracked for energy recovery
+* Time in deep work sessions per week
+* Focus quality (distraction‑free hours)
+* Money tracking (personal spending, savings, investments)
+* Career milestones achieved (roles, certifications, contributions)
 
 ---
 
@@ -270,9 +278,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+I wrote down all my current tasks, bills, pending goals, worries, and ideas into a notebook to clear my head and create space for focus.
 
 ---
 
@@ -290,19 +298,21 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
+Mon–Thu: 60 minutes deep work sessions
+Fri: Skill learning (DevOps/AI) – 90 minutes
+Sat: DMI session + project documentation
+Sun: Weekly review + planning for next week
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday & Sunday mornings (10 AM – 6 PM)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2 sessions per week
 
 ---
 
@@ -316,7 +326,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone kept away during deep work sessions
+* Social media limited to 30 minutes daily, only after work hours
+* Workspace cleared before starting focus blocks
+* Noise‑free environment (headphones or quiet room)
 
 ---
 
@@ -324,15 +337,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that writing things down reduces mental clutter and helps me focus better on execution instead of worrying.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I tend to procrastinate when tasks feel overwhelming, which leads to wasted time and stress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will start each day with a 10‑minute planning session to prioritize tasks and set realistic goals for the day.
 
 ### LinkedIn Post
 
@@ -344,8 +357,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/abhishek-bs-mu2320_futureself-successblueprint-devops-share-7478258643440713728-UhFo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGW4L3kB8mAjiBQSOeHP4OEA5HrA1duqGkM**  
+- Blog / Medium : **https://medium.com/@abhishek_b_s/my-journey-to-version-2-0-dbdaa6f2356e**  
 
 ---
 
