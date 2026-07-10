@@ -20,13 +20,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-![claude version](./images/ss1.png)
+![claude version](./images/ss1.PNG)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-![claude code Authenticated](./images/ss2.png)
+![claude code Authenticated](./images/ss2.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-![Forked_Image](./images/ss3.png)
+![Forked_Image](./images/ss3.PNG)
 
 ---
 
@@ -53,18 +53,18 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 ### Evidence
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
-![Forked_Image](./images/ss3.png)
-![Forked_Image](./images/ss4.png)
-![Forked_Image](./images/ss4c.png)
-![Forked_Image](./images/ss4a.png)
-![Forked_Image](./images/ss4b.png)
+![Forked_Image](./images/ss3.PNG)
+![Forked_Image](./images/ss4.PNG)
+![Forked_Image](./images/ss4c.PNG)
+![Forked_Image](./images/ss4a.PNG)
+![Forked_Image](./images/ss4b.PNG)
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-![Forked_Image](./images/ss5.png)
-![Forked_Image](./images/ss5a.png)
+![Forked_Image](./images/ss5.PNG)
+![Forked_Image](./images/ss5a.PNG)
 
 ---
 
