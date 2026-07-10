@@ -53,7 +53,6 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 ### Evidence
 
 #### Screenshot 4 â€” Claude's response to the first question, showing it read the files (tool calls visible)
-![Forked_Image](./images/ss3.PNG)
 ![Forked_Image](./images/ss4.PNG)
 ![Forked_Image](./images/ss4c.PNG)
 ![Forked_Image](./images/ss4a.PNG)
@@ -81,7 +80,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/awsabhitech-sys/devops-micro-internship-pravinmishra/tree/main/week-02-agentic-ai
 
 ---
 
