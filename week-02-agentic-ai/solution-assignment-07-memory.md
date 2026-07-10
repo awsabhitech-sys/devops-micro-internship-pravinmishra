@@ -95,7 +95,7 @@ Add your screenshot here.
 
 Paste your Linkedin post link here:
 
-`__________________________`
+https://www.linkedin.com/feed/update/urn:li:activity:7481423925868978176/
 
 ---
 

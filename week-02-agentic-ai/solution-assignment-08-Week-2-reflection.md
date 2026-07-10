@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Forked_Image](./images/ss60.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+(https://medium.com/p/bfd8168ddebd?postPublishedType=initial)
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Forked_Image](./images/ss61.PNG)
 
 ---
 
@@ -101,14 +101,34 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+⚡ The Agentic AI Mindshift: Moving from Thinker to Doer ⚡
+
+I just wrapped up Week 2 of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI, For a long time, using AI meant typing basic prompts into a chat box and hoping for the best. But wrapping up Week 2 of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI completely shattered that baseline.
+This week was the ultimate mindshift: moving from a passive thinker to an active doer.
+Instead of just scratching the surface, I dove deep under the hood to understand exactly how autonomous systems tick. When you stop treating AI as an advanced autocomplete and start configuring its internal architecture, your velocity changes overnight.
+Here is the exact technical roadmap I executed to look inside the machine and drive real local execution:
+💻 1. Local Terminal Integration: Brought raw agentic power straight into my laptop's environment to eliminate context-switching.
+📝 2. Initializing claude.md: Crafting the core system instruction file to set absolute baseline rules and behavioral guardrails.
+🛠️ 3. Architecting skills.md: Explicitly defining the toolsets and capabilities the agent can dynamically pull from.
+🤖 4. Spawning Subagents: Shifting from writing manual code to managing a digital pod, watching the primary agent delegate micro-tasks to specialized subagents.
+🔌 5. Unleashing MCP: Connecting the Model Context Protocol to securely bridge my local files and system tools directly to the LLM.
+🛡️ 6. Mastering Hooks & Permissions: Taking full control of the execution loop by setting strict boundaries instead of micromanaging the terminal.
+🧠 7. Implementing Persistent Memory: Ensuring the agent retains architectural context across cumulative loops instead of starting from scratch every time.
+We are moving away from the era of "just prompting basic stuff" and entering the era of systemic engineering governance.
+
+A massive thank you to Pravin Mishra for breaking down the Agentic AI so clearly. The way you mapped out the concepts, especially shifting the mindset from a traditional thinker to an execution-focused doer made everything click instantly.
+
+#AgenticAI #DevOps #MilestoneAchieved #MindsetShift #Execution #ClaudeCode #MCP #SoftwareEngineering #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( [https://lnkd.in/gpQdEP-K) ).
+
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+https://www.linkedin.com/feed/update/urn:li:activity:7481423925868978176/
 
 ---
 
@@ -124,15 +144,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✔] Blog written with required structure
+* [✔] Blog includes at least 2–3 Week 2 topics
+* [✔] Blog is publicly accessible
+* [✔] LinkedIn post created
+* [✔] Required P.S. line included
+* [✔] LinkedIn post content copied in submission field
+* [✔] Blog link added
+* [✔] LinkedIn post link added
+* [✔] Screenshots added to GitHub repo
 
 ---
 
