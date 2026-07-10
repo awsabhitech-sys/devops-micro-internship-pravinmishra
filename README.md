@@ -74,8 +74,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 01 → Success Mindset
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -136,7 +136,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/abhishek-bs-mu2320_devops-networking-softwarearchitecture-activity-7441200842361405440-YoqE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGW4L3kB8mAjiBQSOeHP4OEA5HrA1duqGkM | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/abhishek-bs-mu2320_futureself-successblueprint-devops-activity-7478261488747548672-DUTK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGW4L3kB8mAjiBQSOeHP4OEA5HrA1duqGkM | https://medium.com/@abhishek_b_s/my-journey-to-version-2-0-dbdaa6f2356e |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/feed/update/urn:li:activity:7481423925868978176/ | https://medium.com/p/bfd8168ddebd?postPublishedType=initial |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
